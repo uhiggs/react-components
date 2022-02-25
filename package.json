@@ -1,5 +1,5 @@
 {
-  "name": "@uhiggs/react-components",
+  "name": "react-components",
   "version": "0.0.1",
   "description": "React Component Library",
   "scripts": {
@@ -7,10 +7,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/uhiggs/react-components.git"
+    "url": "https://github.com/uhiggs/react-components.git"
   },
   "author": "uhiggs",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/uhiggs/react-components/issues"
   },
