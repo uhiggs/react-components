@@ -1,6 +1,6 @@
 {
   "name": "@uhiggs/react-components",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "description": "React Component Library",
   "scripts": {
     "rollup": "rollup -c"
@@ -32,11 +32,9 @@
     "dist"
   ],
   "types": "dist/index.d.ts",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/uhiggs"
-  },
   "keywords": [
     "uhiggs",
     "react"
-  ]
+  ],
+  "dependencies": {}
 }
