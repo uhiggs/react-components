@@ -1,13 +1,13 @@
 {
-  "name": "react-components",
-  "version": "0.0.1",
+  "name": "@uhiggs/react-components",
+  "version": "0.0.2",
   "description": "React Component Library",
   "scripts": {
     "rollup": "rollup -c"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/uhiggs/react-components.git"
+    "url": "git+https://github.com/uhiggs/react-components.git"
   },
   "author": "uhiggs",
   "license": "MIT",
